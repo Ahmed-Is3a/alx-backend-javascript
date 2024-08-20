@@ -2,7 +2,7 @@
  * display a message
  * @param {string} message 
  */
-function displayMessage(message) {
+const displayMessage = (message) => {
     console.log(message);
 };
 
